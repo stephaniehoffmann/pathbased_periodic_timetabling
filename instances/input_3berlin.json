@@ -1,0 +1,17 @@
+{
+"0" : {
+	"nodes" : ["Tg", "Lp", "H", "Mf"],
+	"duration" : [13, 11, 9],
+	"name" : "U6"
+	},
+"1" : {
+	"nodes" : ["Ol", "Lp", "Sn", "Rz"],
+	"duration" : [2, 12, 13],
+	"name" : "U9"
+	},
+"2" : {
+	"nodes" : ["K", "Sn", "H", "WA"],
+	"duration" : [19, 12, 9],
+	"name" : "U3"
+	}
+}
